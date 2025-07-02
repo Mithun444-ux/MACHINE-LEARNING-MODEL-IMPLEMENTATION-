@@ -50,3 +50,7 @@ The script tests the model on a few custom example messages to demonstrate real-
 To build a machine learning model that can automatically detect spam messages using natural language processing techniques and evaluate its performance effectively.
 
 Would you like this description embedded at the top of the Jupyter notebook as a markdown cell?
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/21cdd227-28b0-43c8-9b9b-6879a42b9d44)
